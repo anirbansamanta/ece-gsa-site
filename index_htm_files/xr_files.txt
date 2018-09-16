@@ -115,8 +115,6 @@ index_htm_files/630.png
 index_htm_files/630@2x.png
 index_htm_files/632.png
 index_htm_files/632@2x.png
-index_htm_files/635.png
-index_htm_files/635@2x.png
 index_htm_files/636.png
 index_htm_files/636@2x.png
 index_htm_files/637.png
@@ -187,6 +185,8 @@ index_htm_files/691.jpg
 index_htm_files/699.jpg
 index_htm_files/701.jpg
 index_htm_files/701@2x.jpg
+index_htm_files/715.png
+index_htm_files/715@2x.png
 index_htm_files/sgresize.gif
 index_htm_files/sgloader.white.gif
 index_htm_files/sghighslide.js
