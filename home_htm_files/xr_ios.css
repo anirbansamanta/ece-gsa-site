@@ -66,14 +66,14 @@
 .xr_mvp_11 {display: none;}
 .xr_mvp_10 {display: none;}
 .xr_pbd {margin-left: -240px;}
-#xr_xr {width: 480px; height: 4131px}
+#xr_xr {width: 480px; height: 4458px}
 }
 @media screen and (orientation: portrait) and (min-device-width: 560px) and (max-device-width: 799px),screen and (orientation: landscape) and (min-device-height: 560px) and (max-device-height: 799px) {
 .xr_mvp_12 {display: none;}
 .xr_mvp_11 {display: block;}
 .xr_mvp_10 {display: none;}
 .xr_pbd {margin-left: -320px;}
-#xr_xr {width: 640px; height: 2019px}
+#xr_xr {width: 640px; height: 2048px}
 }
 @media screen and (orientation: portrait) and (min-device-width: 800px), screen and (orientation: landscape) and (min-device-height: 800px) {
 .xr_mvp_12 {display: none;}
