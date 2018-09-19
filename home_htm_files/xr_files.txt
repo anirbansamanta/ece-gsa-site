@@ -251,6 +251,12 @@ home_htm_files/1247@2x.jpg
 home_htm_files/1254.jpg
 home_htm_files/1255.jpg
 home_htm_files/1255@2x.jpg
+home_htm_files/1288.png
+home_htm_files/1288@2x.png
+home_htm_files/1295.jpg
+home_htm_files/1295@2x.jpg
+home_htm_files/1302.jpg
+home_htm_files/1302@2x.jpg
 home_htm_files/sgresize.gif
 home_htm_files/sgloader.white.gif
 home_htm_files/sghighslide.js
