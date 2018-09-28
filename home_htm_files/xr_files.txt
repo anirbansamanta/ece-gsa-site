@@ -287,7 +287,6 @@ home_htm_files/1646.png
 home_htm_files/1646@2x.png
 home_htm_files/1649.png
 home_htm_files/1649@2x.png
-home_htm_files/1651.png
 home_htm_files/sgresize.gif
 home_htm_files/sgloader.white.gif
 home_htm_files/sghighslide.js
