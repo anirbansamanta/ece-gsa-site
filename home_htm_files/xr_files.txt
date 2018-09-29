@@ -26,7 +26,6 @@ home_htm_files/511@2x.png
 home_htm_files/729.jpg
 home_htm_files/729@2x.jpg
 home_htm_files/513.png
-home_htm_files/513@2x.png
 home_htm_files/1046.png
 home_htm_files/1046@2x.png
 home_htm_files/1047.png
@@ -287,6 +286,17 @@ home_htm_files/1646.png
 home_htm_files/1646@2x.png
 home_htm_files/1649.png
 home_htm_files/1649@2x.png
+home_htm_files/513@2x.png
+home_htm_files/1656.png
+home_htm_files/1656@2x.png
+home_htm_files/1657.jpg
+home_htm_files/1657@2x.jpg
+home_htm_files/1658.png
+home_htm_files/1658@2x.png
+home_htm_files/1660.png
+home_htm_files/1660@2x.png
+home_htm_files/1663.png
+home_htm_files/1663@2x.png
 home_htm_files/sgresize.gif
 home_htm_files/sgloader.white.gif
 home_htm_files/sghighslide.js
