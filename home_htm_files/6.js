@@ -1,4 +1,4 @@
-window.local_imageGallerySimple_v11_11_data = [
+window.local_imageGallerySimple_v11_17_data = [
 {
  border: "4",
  cols: "4",
