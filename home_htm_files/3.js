@@ -1,4 +1,4 @@
-window.local_imageGallerySimple_v11_22_data = [
+window.local_imageGallerySimple_v11_32_data = [
 {
  border: "4",
  cols: "4",
@@ -10,39 +10,27 @@ window.local_imageGallerySimple_v11_22_data = [
  trans: "0.3"
 },
 {
- image: "home_htm_files/1925.jpg"
+ image: "home_htm_files/1994.jpg"
 },
 {
- image: "home_htm_files/1926.jpg"
+ image: "home_htm_files/1995.jpg"
 },
 {
- image: "home_htm_files/1927.jpg"
+ image: "home_htm_files/1996.jpg"
 },
 {
- image: "home_htm_files/1928.jpg"
+ image: "home_htm_files/1997.jpg"
 },
 {
- image: "home_htm_files/1929.jpg"
+ image: "home_htm_files/1998.jpg"
 },
 {
- image: "home_htm_files/1930.jpg"
+ image: "home_htm_files/1999.jpg"
 },
 {
- image: "home_htm_files/1931.jpg"
+ image: "home_htm_files/2000.jpg"
 },
 {
- image: "home_htm_files/1932.jpg"
-},
-{
- image: "home_htm_files/1933.jpg"
-},
-{
- image: "home_htm_files/1934.jpg"
-},
-{
- image: "home_htm_files/1935.jpg"
-},
-{
- image: "home_htm_files/1936.jpg"
+ image: "home_htm_files/2001.jpg"
 }
 ];
