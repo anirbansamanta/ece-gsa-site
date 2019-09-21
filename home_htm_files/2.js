@@ -1,8 +1,8 @@
-window.local_imageGallerySimple_v11_2_data = [
+window.local_imageGallerySimple_v11_11_data = [
 {
  border: "4",
  cols: "4",
- effect: "1",
+ effect: "0",
  popupsize: "750",
  rotation: "-360",
  shadowblur: "4",
@@ -10,25 +10,7 @@ window.local_imageGallerySimple_v11_2_data = [
  trans: "0.3"
 },
 {
- image: "home_htm_files/1322.jpg"
-},
-{
- image: "home_htm_files/1323.jpg"
-},
-{
- image: "home_htm_files/1324.jpg"
-},
-{
- image: "home_htm_files/1325.jpg"
-},
-{
- image: "home_htm_files/1326.jpg"
-},
-{
  image: "home_htm_files/1327.jpg"
-},
-{
- image: "home_htm_files/1328.jpg"
 },
 {
  image: "home_htm_files/1329.jpg"
