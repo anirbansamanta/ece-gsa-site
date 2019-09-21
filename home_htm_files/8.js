@@ -10,15 +10,15 @@ window.local_imageGallerySimple_v11_17_data = [
  trans: "0.3"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/1327.jpg"
+ image: "home_htm_files/1327.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/1329.jpg"
+ image: "home_htm_files/1329.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/1330.jpg"
+ image: "home_htm_files/1330.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/1331.jpg"
+ image: "home_htm_files/1331.jpg"
 }
 ];

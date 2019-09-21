@@ -10,27 +10,27 @@ window.local_imageGallerySimple_v11_32_data = [
  trans: "0.3"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/2280.jpg"
+ image: "home_htm_files/1994.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/2281.jpg"
+ image: "home_htm_files/1995.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/2282.jpg"
+ image: "home_htm_files/1996.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/2283.jpg"
+ image: "home_htm_files/1997.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/2284.jpg"
+ image: "home_htm_files/1998.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/2285.jpg"
+ image: "home_htm_files/1999.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/2286.jpg"
+ image: "home_htm_files/2000.jpg"
 },
 {
- image: "ECE-GSA_Site_2019_htm_files/2287.jpg"
+ image: "home_htm_files/2001.jpg"
 }
 ];
