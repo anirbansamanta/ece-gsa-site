@@ -10,27 +10,27 @@ window.local_imageGallerySimple_v11_26_data = [
  trans: "0.3"
 },
 {
- image: "home_htm_files/1994.jpg"
+ image: "home_htm_files/2280.jpg"
 },
 {
- image: "home_htm_files/1995.jpg"
+ image: "home_htm_files/2281.jpg"
 },
 {
- image: "home_htm_files/1996.jpg"
+ image: "home_htm_files/2282.jpg"
 },
 {
- image: "home_htm_files/1997.jpg"
+ image: "home_htm_files/2283.jpg"
 },
 {
- image: "home_htm_files/1998.jpg"
+ image: "home_htm_files/2284.jpg"
 },
 {
- image: "home_htm_files/1999.jpg"
+ image: "home_htm_files/2285.jpg"
 },
 {
- image: "home_htm_files/2000.jpg"
+ image: "home_htm_files/2286.jpg"
 },
 {
- image: "home_htm_files/2001.jpg"
+ image: "home_htm_files/2287.jpg"
 }
 ];

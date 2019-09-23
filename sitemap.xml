@@ -2,56 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
  <url>
   <loc>http://home.htm/home.htm</loc>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> cfe926b7498bfeee6e8325e4166325f5afa541cd
-  <lastmod>2019-01-24T08:14Z</lastmod>
+  <lastmod>2019-09-23T05:10Z</lastmod>
  </url>
  <url>
   <loc>http://home.htm/upcoming events.htm</loc>
-  <lastmod>2019-01-24T08:14Z</lastmod>
+  <lastmod>2019-09-23T05:10Z</lastmod>
  </url>
  <url>
   <loc>http://home.htm/media.htm</loc>
-  <lastmod>2019-01-24T08:14Z</lastmod>
+  <lastmod>2019-09-23T05:10Z</lastmod>
  </url>
  <url>
   <loc>http://home.htm/officers.htm</loc>
-  <lastmod>2019-01-24T08:14Z</lastmod>
+  <lastmod>2019-09-23T05:10Z</lastmod>
  </url>
  <url>
   <loc>http://home.htm/peer mentors.htm</loc>
-  <lastmod>2019-01-24T08:14Z</lastmod>
+  <lastmod>2019-09-23T05:10Z</lastmod>
  </url>
  <url>
   <loc>http://home.htm/resources.htm</loc>
-  <lastmod>2019-01-24T08:14Z</lastmod>
-<<<<<<< HEAD
-=======
-=======
-  <lastmod>2019-01-24T08:16Z</lastmod>
- </url>
- <url>
-  <loc>http://home.htm/upcoming events.htm</loc>
-  <lastmod>2019-01-24T08:16Z</lastmod>
- </url>
- <url>
-  <loc>http://home.htm/media.htm</loc>
-  <lastmod>2019-01-24T08:16Z</lastmod>
- </url>
- <url>
-  <loc>http://home.htm/officers.htm</loc>
-  <lastmod>2019-01-24T08:16Z</lastmod>
- </url>
- <url>
-  <loc>http://home.htm/peer mentors.htm</loc>
-  <lastmod>2019-01-24T08:16Z</lastmod>
- </url>
- <url>
-  <loc>http://home.htm/resources.htm</loc>
-  <lastmod>2019-01-24T08:16Z</lastmod>
->>>>>>> 0f8f0e7d12944feb5bc29e15bdbc94db805a3d43
->>>>>>> cfe926b7498bfeee6e8325e4166325f5afa541cd
+  <lastmod>2019-09-23T05:10Z</lastmod>
  </url>
 </urlset>
